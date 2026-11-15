@@ -18,7 +18,7 @@ And if you get bored when waiting on a train, bus, uber or any other spare time 
 
 Hope you like it. 
 
-This is freeware - but I keep the code. If you like to remix it, or have any suggestions or improvement-ideas: let me know. I'll hand out the code upon request.
+The downloads are freeware. The [Akai VST2 source](./8Bit-Schmitter-Akai-VST2-Source.zip) is available under the [MIT License](./LICENSE).
 
 
 ![The 8Bit Schmitter for Akai MPC and Force](./8Bit-Schmitter-Akai-Force-Promo-v3.png)
