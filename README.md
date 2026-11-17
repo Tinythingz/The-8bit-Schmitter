@@ -20,7 +20,7 @@ Hope you like it.
 
 The downloads are freeware. The [Akai VST2 source](./8Bit-Schmitter-Akai-VST2-Source.zip) is available under the [MIT License](./LICENSE).
 
-Standalone version:
-<video src="(https://youtu.be/6IY7czeA6-E?si=1qV3UE)" width="320" height="240" controls></video>
-
 ![The 8Bit Schmitter for Akai MPC and Force](./8Bit-Schmitter-Akai-Force-Promo-v3.png)
+## Watch the Schmitter in action
+
+[![Watch the 8Bit Schmitter demo on YouTube](https://i.ytimg.com/vi/6IY7czeA6-E?si=ERJZzq-UjUVWOouw/hqdefault.jpg)](https://www.youtube.com/watch?v=6IY7czeA6-E?si=ERJZzq-UjUVWOouw)
